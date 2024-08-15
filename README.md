@@ -16,3 +16,7 @@ With just a few lines of code, you can automatically organize your files based o
 3.Enhances productivity and organization
 
 This python script uses os and shutil libraries in python in order to form a TASK AUTOMATION - FILE ORGANIZING SYSTEM
+
+The OS module in Python provides functions for interacting with the operating system. OS comes under Python’s standard utility modules.
+
+Python shutil module enables us to operate with file objects easily and without diving into file objects a lot. This module helps in automating the process of copying and removal of files and directories.

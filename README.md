@@ -1,4 +1,4 @@
-# CodeAlpha_Project3_FileOrganizer
+FileOrganizer
 
 Tired of a cluttered file directory? This Python script is here to help! 
 With just a few lines of code, you can automatically organize your files based on their type, making your workspace cleaner and more efficient.
